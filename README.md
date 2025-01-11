@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=15&duration=5500&pause=2000&color=318312&width=435&lines=Habilidades+en+Tailwind%2C+Python%2C+React%2C+NextJS." alt="Typing SVG" /></a>
+👋
 
 <!--
 **reinaldoaa/reinaldoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
